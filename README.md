@@ -5,6 +5,9 @@ WordNet is a “semantic lexicon for the English language” that is used extens
 This project replicates Google's NGram Visualizer, where you can visualize the frequency over time of words in works of literature. The project uses an <b r> HTML <b r> frontend
 for the visualizer and a <b r> Java <b r> backend with BFS traversals to navigate and calculate the relevancy of the words.
 
+Unfortunately, the actual code used is not to be publicized and is protected by the school, but I have provided visualizations of what it looks like. A solution written by the people
+ran the course (CS61B - Data Structures) can be found [here](https://ngordnet.datastructur.es/) (I did not write the code for this solution) and mimics my own solution.
+
 
 <img width="1314" alt="Screenshot 2024-12-06 at 2 24 08 PM" src="https://github.com/user-attachments/assets/6e0606dc-732d-4f09-b435-7dd181af2333">
 
