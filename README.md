@@ -5,7 +5,7 @@ it was a key component in IBM’s Watson. WordNet groups words into sets of syno
 This project replicates Google's NGram Visualizer, where you can visualize the frequency over time of words in works of literature. The project uses an <b r> HTML <b r> frontend
 for the visualizer and a <b r> Java <b r> backend with BFS traversals to navigate and calculate the relevancy of the words.
 
-Unfortunately, the actual code used is not to be publicized and is protected by the school, but I have provided visualizations of what it looks like. A solution written by the people
+Unfortunately, the actual code used is <u> not to be publicized </u> and is protected by the school, but I have provided visualizations of what it looks like. A solution written by the people
 ran the course (CS61B - Data Structures) can be found [here](https://ngordnet.datastructur.es/) (I did not write the code for this solution) and mimics my own solution.
 
 
